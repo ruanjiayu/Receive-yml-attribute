@@ -19,3 +19,5 @@ config-attributes:
 ```
 
 ### 需要注意启动类上多了一@ConfigurationProperties注解
+
+### [相关文档的传送门](https://juejin.im/post/5b0440a5f265da0b886dc2e9)
