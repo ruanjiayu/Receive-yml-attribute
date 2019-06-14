@@ -17,3 +17,5 @@ config-attributes:
     - name: caven
       age: 31
 ```
+
+### 需要注意启动类上多了一@ConfigurationProperties注解
