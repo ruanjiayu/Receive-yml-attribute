@@ -1,0 +1,7 @@
+server:
+  port: 8081
+  ### 指定运行的脚本
+spring:
+  profiles:
+    active: dev
+
